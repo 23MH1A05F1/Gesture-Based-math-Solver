@@ -10,6 +10,7 @@ Evaluates the expression in real-time
 All using just your webcam + hands + Python magic!
 
 Tech Stack Used :
+
 Tool	- Purpose
 Python -	Main programming language
 OpenCV	-Capture and display webcam input
@@ -18,7 +19,9 @@ NumPy -	Math calculations (like finger distance)
 eval() -	Python’s built-in method to evaluate math
 
 📷 How it Works – Behind the Scenes :
+
 Step-by-Step Process:
+
 Start Webcam
 OpenCV captures your video feed in real time.
 Detect Hands
